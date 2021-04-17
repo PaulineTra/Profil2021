@@ -9,7 +9,7 @@ body {
   }
   
   #banner {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Verdana';
       text-align: center;
       background-image: url("images/estonie_photo.jpg");
       background-size: cover;
@@ -23,7 +23,7 @@ body {
     
     #banner h1 {
       font-size: 50px;
-      text-shadow: 3px 3px #613F75;
+      text-shadow: 3px 3px #;
     }
     
     #banner p {
@@ -34,20 +34,20 @@ body {
     
     .btn {
       text-decoration: none;
-      background-color: #0563f1;
+      background-color: #edffa9;
       border-radius: 4px;
       box-shadow: 0 4px 6px rgba(50,50,93,.11);
       padding: 15px 20px;
     }
     
     .btn:hover {
-      background-color: #844aa5;
+      background-color: #eca3f5;
       opacity: 0.8;
       border: 2px solid white;
     }
     
     .card {
-      padding: 50px;
+      padding: 42px;
       font-weight: lighter;
     }
     
@@ -71,10 +71,10 @@ body {
   
   a:hover {
     text-decoration: none;
-    background_color:#DED6E;
+    background_color:white;
     opacity:0.8;
     color:#3D3329;
-    color: purple;
+    color:blue;
   }
 
   .cards {
